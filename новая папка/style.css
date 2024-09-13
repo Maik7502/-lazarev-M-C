@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+    background-color: #2e3a1f; /* Тёмно-зелёный фон */
+}
+
+header {
+    background: url('tank-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    padding: 2rem;
+    text-align: center;
+    color: #ffffff;
+    border-bottom: 5px solid #d0d0d0; /* Светлая граница для контраста */
+}
+
+.header-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.portfolio {
+    padding: 2rem;
+    background-color: #3b4a1f; /* Более светлый зелёный фон */
+    text-align: center;
+}
+
+.portfolio h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.portfolio-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.portfolio-item {
+    background-color: #4a5a2a; /* Камуфляжный цвет */
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 8px;
+    width: 400px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    transition: width 0.3s;
+    }
+    
+.portfolio-item:hover {
+    width: 475px;
+    }
+   
+.portfolio-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 2px solid #fff; /* рамка цвета #fff /
+    border-radius: 8px; / тот же радиус как у фото */
+    box-sizing: border-box;
+    z-index: -1;
+}
+
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #2e3a1f;
+    padding: 1rem;
+    text-align: center;
+    border-top: 5px solid #d0d0d0;
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
