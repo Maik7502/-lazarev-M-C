@@ -1,0 +1,162 @@
+:: StoryTitle
+Обучение
+
+
+:: StoryData
+{
+  "ifid": "91911A8F-3681-4F52-A380-AB6DE58C12D9",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "1",
+  "zoom": 1
+}
+
+
+:: 1 [1] {"position":"700,275","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+Создание базы данных в LibreOffice Base.
+
+//[[Начать->2]]//
+
+
+:: 10 {"position":"700,400","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/13.png" class="photo">
+Пример форм, созданных в LibreOffice Base.
+
+[[Вернуться в начало ->1]]
+
+
+:: 2 [2] {"position":"875,275","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/1.png" class="photo">
+Шаг 1: Запуск LibreOffice Base.
+
+[[Перейти к следующему шагу->3]]
+
+
+:: 3 [4] {"position":"1050,275","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/2.png" class="photo">
+Шаг 2: Создание базы данных в LibreOffice Base.
+
+[[Перейти к следующему шагу->4]]
+
+
+:: 4 [6] {"position":"1225,275","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/3.png" class="photo">
+Шаг 3: Выбор сохранения места базы данных.
+
+[[Перейти к следующему шагу->5]]
+
+
+:: 5 [8] {"position":"1375,275","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/4.png" class="photo">
+Шаг 4: Создание таблиц в базе данных при помощи дизайнера (конструктора) таблиц.
+
+Первичный ключ создаётся нажатием правой кнопки мыши на строку, которую вы выбрали в роле первичного ключа. 
+При связывании таблиц тип поля столбцов, которые вы собираетесь связать, должны быть одинаковы, иначе связать будет невозможно.
+[[Перейти к следующему шагу->6]]
+
+
+:: 6 {"position":"1375,400","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/5.png" class="photo">
+Шаг 5: Создание связей между таблицами.
+	Шаг 5.1: Нажать на «Сервис», затем на «Связи».
+
+[[Перейти к следующему шагу->7]]
+
+
+:: 7 {"position":"1225,400","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/6.png" class="photo">
+Шаг 5.2: Нажимаете на иконку, похожую на таблицу и добавляете все необходимые вам таблицы.
+
+[[Перейти к следующему шагу->8]]//
+
+
+:: 8 {"position":"1050,400","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+Шаг 5.3: Связи можно создать 2 способами: двойным нажатием на столбец с первичным ключом и переносе её к тому столбцу, с которым хотите связь или нажатием на иконку «Создать связь».
+<img src="https://raw.githubusercontent.com/ItsArtem/Twine/refs/heads/main/53.png" class="photo">
+Способ создания таблицы при помощи «Создать связь».
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/8.png" class="photo">
+Далее выбираете нужные вам 2 таблицы и столбцы, которые хотите связать.
+
+[[Перейти к следующему шагу->9]]
+
+
+:: 9 {"position":"875,400","size":"100,100"}
+<div style="width: 380px; height: 380px; border: 10px solid white; position: fixed; bottom: 10px; left: 10px; z-index: 1000;"></div>
+<video src="https://i.imgur.com/XZN4Jzk.mp4" style="position: fixed; bottom: 20px; left: 20px; z-index: 1001; width: 360px; height: 360px;" autoplay loop muted controls></video>
+
+Шаг 6: Создание форм. Форму можно создать двумя способами: дизайн форм или мастер форм. Будем показан пример с мастером форм.
+ <img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/9.png" class="photo">
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/10.png" class="photo">
+Создание подформ по вашему желанию. Будет показан пример без подформы.
+На 5 этапе можно выбрать как будут показываться данные в вашей форме.
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/11.png" class="photo">
+Далее идёт выбор возможностей с работой данных при помощи формы.
+На седьмом этапе создаётся стиль формы. На восьмом название для формы.
+
+<img src="https://raw.githubusercontent.com/ItsArtem/twinebd/refs/heads/main/12.png" class="photo">
+Вот итог создания формы. Слева так же можно увеличить её функционал, добавив кнопки, подписав форму при помощи «Метка». 
+Если создавать форму с подформами, то функционал увеличивается, можно так же сделать списки, чтобы вместо цифр у вас выдавались данные с таблицы, которая связана с той, чью форму вы делали.
+
+[[Перейти к следующему шагу->10]]
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+color: #FFFFFF;
+flex-direction: column-reverse;
+}
+
+tw-story {
+  position: relative;
+  background-image: url("https://images.wallpaperscraft.ru/image/single/svetlyj_fon_svet_50370_2560x1440.jpg");
+  background-size: auto;
+  background-repeat: repeat;
+}
+
+tw-story::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.photo {
+   max-width: 1200px;
+   height: auto;
+   width: auto;
+   border-radius: 10px;
+   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+   margin: 0 10px;
+   display: flex;
+}
